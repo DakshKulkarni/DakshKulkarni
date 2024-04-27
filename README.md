@@ -1,3 +1,5 @@
+![giphy (1)](https://github.com/DakshKulkarni/DakshKulkarni/assets/115560064/d9d53293-6cae-4a72-90ad-9933c45688d6)
+
 <h1 align="center">Hi 👋, I'm Daksh Kulkarni</h1>
 <h3 align="center">Developing games and visualising dreams</h3>
 
