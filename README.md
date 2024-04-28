@@ -1,4 +1,5 @@
-![giphy (1)](https://github.com/DakshKulkarni/DakshKulkarni/assets/115560064/d9d53293-6cae-4a72-90ad-9933c45688d6)
+![giphy (2)](https://github.com/DakshKulkarni/DakshKulkarni/assets/115560064/17ab7052-94c7-4c54-9866-e118a4eb2f5f)
+![200w (1)](https://github.com/DakshKulkarni/DakshKulkarni/assets/115560064/929bff9c-77a7-4a85-ab83-d06ea4c29437)
 
 <h1 align="center">Hi 👋, I'm Daksh Kulkarni</h1>
 <h3 align="center">Developing games and visualising dreams</h3>
