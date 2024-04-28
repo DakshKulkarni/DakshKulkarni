@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Daksh Kulkarni</h1>
 <h3 align="center">Developing games and visualising dreams</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dakshkulkarni" alt="dakshkulkarni" /></a> </p>
 
 - 🔭 I’m currently working on **A zombie survival game**
 
