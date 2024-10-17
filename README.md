@@ -14,7 +14,7 @@
 - 📫 How to reach me **dakshkulki04@gmail.com**
 
 - 📄 Know about my experiences
-- [file:///Users/dakshkulkarni/Library/CloudStorage/GoogleDrive-dakshkulki04@gmail.com/My%20Drive/Daksh%20Kulkarni.pdf](url)
+- [https://coral-libbi-29.tiiny.site/](url)
 
 - ⚡ Fun fact **The more you try to remember, the more you forget.**
 
