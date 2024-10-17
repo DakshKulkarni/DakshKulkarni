@@ -5,7 +5,7 @@
 <h3 align="center">Developing games and visualising dreams</h3>
 
 
-- 🔭 I’m currently working on **A zombie survival game**
+- 🔭 I’m currently working on **A VR Game based on the movie "The Walk" which is a thrilling and immersive game which involves walking on a rope tied between two towers and the player has to walk balancing themselves**
 
 - 🌱 I’m currently learning **Unity 3D, C#, Oculus(Meta Quest)**
 
@@ -14,7 +14,7 @@
 - 📫 How to reach me **dakshkulki04@gmail.com**
 
 - 📄 Know about my experiences
-- [file:///Users/dakshkulkarni/Library/CloudStorage/GoogleDrive-dakshkulki04@gmail.com/My%20Drive/Daksh%20Kulkarni.pdf](file:///Users/dakshkulkarni/Library/CloudStorage/GoogleDrive-dakshkulki04@gmail.com/My%20Drive/Daksh%20Kulkarni.pdf)
+- [file:///Users/dakshkulkarni/Library/CloudStorage/GoogleDrive-dakshkulki04@gmail.com/My%20Drive/Daksh%20Kulkarni.pdf](url)
 
 - ⚡ Fun fact **The more you try to remember, the more you forget.**
 
