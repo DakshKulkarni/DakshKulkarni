@@ -9,12 +9,12 @@
 
 - 🌱 I’m currently learning **Unity 3D, C#, Oculus(Meta Quest)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DakshKulkarni](https://github.com/DakshKulkarni)
+- 👨‍💻 All of my projects are available at [DakshKulkarni](https://github.com/DakshKulkarni)
 
 - 📫 How to reach me **dakshkulki04@gmail.com**
 
 - 📄 Know about my experiences
-- [https://coral-libbi-29.tiiny.site/](https://coral-libbi-29.tiiny.site/)
+- [Daksh Kulkarni's Resume](https://coral-libbi-29.tiiny.site/)
 
 - ⚡ Fun fact **The more you try to remember, the more you forget.**
 
